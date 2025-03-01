@@ -446,9 +446,3 @@ If you discover any security related issues, please email alfonso@vexilo.com ins
 
 - [Alfonso Bribiesca](https://github.com/alfonsobries)
 - [All Contributors](https://github.com/alfonsobries/vue-tailwind/contributors)
-
-## License
-
-The MIT License (MIT). Please see [License File](https://github.com/alfonsobries/vue-tailwind/blob/master/LICENSE) for more information.
-
-_Made with love by [@alfonsobries](https://twitter.com/alfonsobries)_
